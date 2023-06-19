@@ -10,4 +10,11 @@ export default {
     </div>
 </template>
 
-<style></style>
+<style>
+h1 {
+    text-align: center;
+    padding: 20px 0;
+    background-color: bisque;
+    height: 10vh;
+}
+</style>
